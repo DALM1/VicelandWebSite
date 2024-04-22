@@ -25,7 +25,9 @@ function Nav() {
   >
       <ul>Discord</ul>
   </a>
-  
+  <Link to="/galerie">
+      <ul>Galerie</ul>
+      </Link>
 </div>
   )
 }
