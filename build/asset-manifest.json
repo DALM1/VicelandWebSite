@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46cab078.css",
+    "main.js": "/static/js/main.d18c441d.js",
+    "static/media/voiture.gif": "/static/media/voiture.c1f58847a9a175784986.gif",
+    "static/media/police.gif": "/static/media/police.27050be8c50356ce7ecb.gif",
+    "static/media/rockstar.gif": "/static/media/rockstar.df3b1995c358b95b95da.gif",
+    "static/media/gang.gif": "/static/media/gang.84da2f79f44e514d382d.gif",
+    "static/media/static3-image.jpg": "/static/media/static3-image.4ae9d11516e7f2a31581.jpg",
+    "static/media/weazle.png": "/static/media/weazle.f9bb0e92e0319dbe0b7b.png",
+    "static/media/static-image.jpg": "/static/media/static-image.6082159382d1ee2415c6.jpg",
+    "static/media/logo.png": "/static/media/logo.e8a3497c84f40dedde7d.png",
+    "static/media/agency.png": "/static/media/agency.efaeebf78a3f83475922.png",
+    "static/media/static2-image.jpg": "/static/media/static2-image.bcecf1cc67ef0f06a8df.jpg",
+    "index.html": "/index.html",
+    "main.46cab078.css.map": "/static/css/main.46cab078.css.map",
+    "main.d18c441d.js.map": "/static/js/main.d18c441d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46cab078.css",
+    "static/js/main.d18c441d.js"
+  ]
+}
